@@ -1,6 +1,3 @@
-from math import trunc
-
-
 def newGame() :
     guesses = []
     correctGuesses = 0
